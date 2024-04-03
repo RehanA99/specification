@@ -1,0 +1,114 @@
+html{
+ color:darkviolet;
+ font-size:25px;
+ font-weight:600;
+}
+body {
+    margin : 0px ;
+    color : black ;
+} 
+header {
+    width : 100% ;
+    height : 100px ;
+    background-color : white ;
+    
+}
+b {
+    font-size : 14px ;
+    color : navy blue ;
+}
+.navigation {
+    width : 100% ;
+    height : 50px ;
+    background-color : black ;
+    text-align : middle ;
+    border-bottom : 1px solid red ;
+} 
+.nav {
+    width : 100px ;
+    height : 100% ;
+    font-size : 20px ;
+    font-family : "calibri" ;
+    color : white ;
+    float : left ;
+    text-align : middle ;
+    
+}
+.heading {
+    width : 100% ;
+    height : 20px ;
+    font-size : 18px ;
+    font-family : "calibri" ;
+    color : Red ;
+    text-align : middle ;
+    margin : auto ;
+    border : 1px solid black ;
+} 
+.top {
+    width : 95% ;
+    height : auto ;
+    font-size : 14px ;
+    font-family : "calibri" ;
+    color : Red ;
+    text-align : middle ;
+    margin : auto ;
+    border : 1px solid black ;
+} 
+.topChild {
+    width : 50% ;
+    height : auto ;
+    font-size : 20px ;
+    font-family : "calibri" ;
+    color : black ;
+    float : left ;
+    text-align : middle ;
+    margin-top : 20px ;
+    margin-left : auto ;
+}
+input {
+    width : 90% ;
+    height : 20px ;
+    background-color : rgba(0,0,200,0.3) ;
+    font-size : 20px ;
+    font-family : "calibri" ;
+    border-radius : 10px ;
+}
+#add {
+    width : 40% ;
+    height : 30px ;
+    background-color : black ;
+    color : white ;
+    font-family : "Calibri" ;
+    border : 1px solid red ;
+    border-radius : 5px ;
+    margin : auto ;
+}
+.image {
+    width : 100% ;
+    height : 200px ;
+    border : 2px solid red ;
+} 
+.prise {
+    width : 100% ;
+    height : 25px ;
+    font-size : 16px ;
+    color : red ;
+    background-color : black ;
+ 
+}
+.spec,.specChild {
+    width : 90% ;
+    height : auto ;
+    font-size : 12px ;
+    border : 1px solid black ;
+    border-radius : 10px ;
+    margin : 10px ;
+} 
+footer {
+    width : 100% ;
+    height : 50px ;
+    margin : 0px ;
+    border-top : 2px solid red ;
+}
+.bottom {
+} 
